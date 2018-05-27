@@ -1,7 +1,7 @@
 ## Bulbasaur
 
-I choose YOU, Bulbasaur!
+I choose YOU, Vue!
 
-[Imgur](https://i.imgur.com/j01ttSl.png)
+![Pokemon starters](https://i.imgur.com/j01ttSl.png)
 
 Simple Todo app in Vue.
